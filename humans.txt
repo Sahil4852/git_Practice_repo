@@ -7,7 +7,7 @@
 
 # THANKS
 
-    Prajwal
+    Prajwal Sunil Walhekar
 
 # TECHNOLOGY COLOPHON
 
